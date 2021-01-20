@@ -1,7 +1,7 @@
 # Shop-Shop Store
 
 ## Purpose
-This is an e-commerce store created to allow users to browse and purchase a variety of different products. Users have the ability to create an account, browse items based on category, see item details, add items to their cart (items will remain in their cart until they are either removed or purchased, regardless of leaving the site or signing out). Users can also view their order history when logged in. 
+This is an e-commerce store created to allow users to browse and purchase a variety of different products. Users have the ability to create an account, browse items based on category, see item details, add items to their cart (items will remain in their cart until they are either removed or purchased, regardless of leaving the site or signing out), remove or edit quantities in their cart, purchase items, and view their order history when logged in. 
 
 ### Built With
 * CSS
